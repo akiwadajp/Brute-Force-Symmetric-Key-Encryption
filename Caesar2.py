@@ -12,4 +12,4 @@ for i in range(n):
    newloc = (loc + shift)%26
    str_out += alpha[newloc]
 
-print("Obfuscated version:", str_out)
+print("Ciphertext:", str_out)
