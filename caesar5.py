@@ -1,4 +1,4 @@
-alpha =  "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+alpha =  "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
 
 str_in = input("Enter ciphertext: ")
 
