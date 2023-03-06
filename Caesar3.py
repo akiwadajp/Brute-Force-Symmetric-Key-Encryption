@@ -1,3 +1,4 @@
+#this model brings back the ciphertext to plaintext because it made a whole cycle
 alpha =  "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
 
 str_in = input("Enter ciphertext: ")
