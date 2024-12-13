@@ -1,7 +1,7 @@
-<h1>Ceasar Cipher</h1>
+<h1>Symmetric Key Encryption</h1>
 
 <h2>Description</h2>
-The project involves the implementation of a Ceasar Cipher algorithm, which employs a single shift value key to transform plaintext into ciphertext. The script utilizes this algorithm to provide a secure and efficient method for encrypting sensitive data. Overall, the project demonstrates a proficiency in cryptography and software engineering principles, and serves as a valuable contribution to the field of information security.
+The project involves the implementation of a classic symmetric encryption, the same key is used for both encryption and decryption. Ceasar Cipher algorithm is used, which employs a single shift value key to transform plaintext into ciphertext. The script utilizes this algorithm to provide a secure and efficient method for encrypting sensitive data. Overall, the project demonstrates a proficiency in cryptography and software engineering principles, and serves as a valuable contribution to the field of information security.
 <br />
 
 
